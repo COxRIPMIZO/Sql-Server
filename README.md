@@ -14,7 +14,7 @@ DQL commands only includes SELECT
 
 WE have one other type of commands called DCL(Data Controll language) But here we are not understanding them because it littel bit adavance concept but we will learn later.
 
-------------------------------------------------------------------KHONSHU(Vishal)------------------------------------------------------------------------------------
+------------------------------------------------------------------KHONSHU(Vishal)------------------------------------------------------------------
                                                                   😊😊😊👌👌👌
 
  
